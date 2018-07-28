@@ -1,0 +1,2 @@
+# test-hugo
+hugotest
